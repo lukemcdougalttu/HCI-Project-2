@@ -54,10 +54,15 @@ Im not sure what the LA-10 means.
       * Pay attenation to RPMs
       * Check temptaure outside
 # List the controls that the user interacts with the car dashboards.
-
+         * Turn signals
+         * Turn on bights 
+         * Gear shifts 
+         * Door openning 
+         
 # What are some common mistakes you can make with this current designs?
-
-# Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+         * Not knowing what RMP means
+         * Not know what the symbol means when a light comes on.
+         * Not knowing which door is open when the open door door light comes on.
 
 
 
