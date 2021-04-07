@@ -41,14 +41,14 @@ Bad cause you dont know what alot of the stuff on the dashboard mean.
 Im not sure what the LA-10 means. 
 
 # List your most common features and other more rare uses of a car dashboards.
-     ## Common features
+     Common features
       * To look how fast you are going.
       * See if there is any problems with your car such as check engine light
       * See how much gas you gas you have 
       * check the temptaure of the engine
       * Check if door is open
       * check mileage
-     ## Rare uses
+     Rare uses
       * Check time
       * check the song that is playing on dashboard.
       * Pay attenation to RPMs
