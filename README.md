@@ -32,13 +32,6 @@ Good becuase everything is very clear.
       Could be confusing which one is RPM and the speedometer.
 Bad cause you dont know what alot of the stuff on the dashboard mean.
 
-
-##List your most common features and other more rare uses of a car dashboards.
-
-List the controls that the user interacts with the car dashboards.
-What are some common mistakes you can make with this current designs?
-Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
-
 ![header](https://user-images.githubusercontent.com/36684794/113792119-c5448000-970a-11eb-9e78-ff8d40689681.png)
 ## Pro:
       Gives a photo of the car with compass 
@@ -47,7 +40,23 @@ Suggest the improvements to make on the control interface. Sketch your solution 
 
 Im not sure what the LA-10 means. 
 
+# List your most common features and other more rare uses of a car dashboards.
+     ## Common features
+      * To look how fast you are going.
+      * See if there is any problems with your car such as check engine light
+      * See how much gas you gas you have 
+      * check the temptaure of the engine
+      * Check if door is open
+     ## Rare uses
+      * Check time
+      * check the song that is playing on dashboard.
+      * Pay attenation to RPMs
+      * Check temptaure outside
+# List the controls that the user interacts with the car dashboards.
 
+# What are some common mistakes you can make with this current designs?
+
+# Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
 
 
 
