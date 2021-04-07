@@ -47,6 +47,7 @@ Im not sure what the LA-10 means.
       * See how much gas you gas you have 
       * check the temptaure of the engine
       * Check if door is open
+      * check mileage
      ## Rare uses
       * Check time
       * check the song that is playing on dashboard.
