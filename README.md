@@ -64,7 +64,8 @@ Im not sure what the LA-10 means.
          * Not know what the symbol means when a light comes on.
          * Not knowing which door is open when the open door door light comes on.
 
-
+## My Sketch
+![sketch](https://user-images.githubusercontent.com/36684794/114614323-00decd00-9c6a-11eb-9fce-ef5aa8a37689.jpg)
 
 
 
