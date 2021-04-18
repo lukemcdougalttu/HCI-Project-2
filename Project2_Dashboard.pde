@@ -11,6 +11,8 @@ PImage img9;
 PImage img10;
 PImage img11;
 PImage img12;
+PImage img13;
+PImage img14;
 
 void setup(){
   size(1450,750);
@@ -28,6 +30,8 @@ void setup(){
   img10 = loadImage("leftdash.jpg");
   img11 = loadImage("rightdash.jpg");
   img12 = loadImage("esp.jpg");
+  img13 = loadImage("harzard.png");
+  img14 = loadImage("cruise.png");
 }
 
 void draw(){
@@ -44,4 +48,7 @@ void draw(){
   image(img10, 280, 600);
   image(img11, 1010, 600);
   image(img12, 70, 45, 170, 150);
+  image(img13, 670, 50, 100, 100);
+  image(img14, 1050, 40, 100, 100);
+  
 }
