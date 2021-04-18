@@ -65,7 +65,8 @@ Im not sure what the LA-10 means.
          * Not knowing which door is open when the open door door light comes on.
 
 ## My Sketch
-![sketch](https://user-images.githubusercontent.com/36684794/115135474-599dc500-9fde-11eb-90fd-c66c4959761b.jpg)
+![sketch](https://user-images.githubusercontent.com/36684794/115135527-c0bb7980-9fde-11eb-9765-00aa53063631.jpg)
+
 
 
 
